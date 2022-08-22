@@ -6,6 +6,7 @@ certifi==2022.6.15
 charset-normalizer==2.1.0
 decorator==5.1.1
 deep-translator==1.8.3
+docopt==0.6.2
 executing==0.8.3
 idna==3.3
 ipython==8.4.0
@@ -16,6 +17,8 @@ pandas==1.4.3
 parso==0.8.3
 pexpect==4.8.0
 pickleshare==0.7.5
+pipreqs==0.4.11
+pipreqsnb==0.2.4
 prompt-toolkit==3.0.30
 ptyprocess==0.7.0
 pure-eval==0.2.2
@@ -29,3 +32,4 @@ stack-data==0.3.0
 traitlets==5.3.0
 urllib3==1.26.10
 wcwidth==0.2.5
+yarg==0.1.9
