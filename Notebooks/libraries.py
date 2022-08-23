@@ -30,7 +30,6 @@ def hide_toggle(for_next=False):
         toggle_text=toggle_text
     )
     return HTML(html)
-hide_toggle()
 
 def country_translate(country_list : pd.Series):
 
