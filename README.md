@@ -1,6 +1,6 @@
 # PCA_Clustering
 
-![illustration](Notebooks/1_nykOoMQpu9GiODUU48Aesg.png)
+![illustration](Images/1_nykOoMQpu9GiODUU48Aesg.png)
 
 # Introduction
 
