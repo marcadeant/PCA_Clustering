@@ -1,4 +1,4 @@
-# PCA_Clustering
+# [PCA_Clustering](https://launchpad-5ycggqe1ym45.curve.space/PCA_Clustering)
 
 ![illustration](Images/1_nykOoMQpu9GiODUU48Aesg.png)
 
@@ -16,7 +16,7 @@ Before bringing the countries together, we have to decide what are the best feat
 **P**olitical, **E**conomical, **S**ocial, **T**echnological, **E**cological and **L**egal are good topic to begin. 
 
 For example, Political criteria bring us more information about government's stability (No conflict).  
-As GDP's growth feature give us some useful information about the **economic health and development** of a country.
+As GDP's growth feature give us some usefull information about the **economic health and development** of a country.
 
 Go deeper on Pestel analyze with a full detailed application available [here](https://github.com/marcadeant/PCA_Clustering/blob/main/Notebooks/Data%20Cleaning.ipynb)
 
